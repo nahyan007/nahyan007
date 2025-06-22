@@ -51,11 +51,6 @@ I'm a Computer Science graduate and former Sr. IT Officer, now transitioning int
 
 ---
 
-### 📊 GitHub Stats
-![Ashraful's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
 ### ✍️ Fun Facts
 - I love exploring automation tools, debugging test scripts, and learning new testing frameworks.
 - Outside of tech: I enjoy biking and experimenting with creative prompts & designs.
