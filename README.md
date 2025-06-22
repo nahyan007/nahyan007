@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
-I'm a Computer Science graduate and former Sr. IT Officer, now transitioning into **Software Quality Assurance (SQA)**. I'm passionate about **manual testing, API testing, automation**, and ensuring quality in software development through critical thinking and technical precision.
+I'm Sr. IT Officer, now transitioning into **Software Quality Assurance (SQA)**. I'm passionate about **manual testing, API testing, automation**, and ensuring quality in software development through critical thinking and technical precision.
 
 ---
 
