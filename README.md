@@ -1,28 +1,67 @@
 ### Hi there, I'm Al Ashraful Islam Shorif 👋
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="35%" align="right" alt="GitHub" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a graduated from computer science and engineering who is passionate about writing code, solving problems, automating stuff, and building software.
+I'm a Computer Science graduate and former Sr. IT Officer, now transitioning into **Software Quality Assurance (SQA)**. I'm passionate about **manual testing, API testing, automation**, and ensuring quality in software development through critical thinking and technical precision.
 
-- 🔭 I’m currently a CSE graduated student from City Unversity.
-- 📚 I’m currently practicing  frntend web development using Javascript, Typescript and ReactJs.
-- 👯 I’m looking for a software development Job. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/al-ashraful-islam-shorif-707845212) [Gmail](mailto:alashrafulislamshorif@gmail.com)
+---
 
+- 🧪 Currently learning and practicing **API Testing** with **Postman**, **K6**, and **JMeter**
+- 🔍 Skilled in **manual testing**, writing test cases, bug reporting, and test documentation
+- 🧠 Learning **Selenium** and preparing for **automated testing**
+- 👨‍💻 Familiar with web technologies (HTML, CSS, JS, React), useful for UI testing
+- 🛠️ Comfortable with **JIRA**, Git, VS Code, and terminal-based workflows
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/al-ashraful-islam-shorif-707845212) | [Email](mailto:alashrafulislamshorif@gmail.com)
 
-### Languages and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/taiwindcss/taiwindcss.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/materialui/materialui.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jest/jest.png"></code>
+---
 
+### 🧰 Tools & Technologies
 
+#### 🧪 QA Tools
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Selenium_logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmeter-dev/jmeter/main/xdocs/images/logo/jmeter.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/1507084?s=200&v=4"></code> <!-- K6 logo -->
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+
+#### 🧑‍💻 Web & Coding
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+
+---
+
+### 📂 Featured Projects
+
+- 🔎 **API Test Collection** (Postman & K6 examples) — *Coming Soon*
+- 🧪 **Bug Report Samples** – Realistic defects with screenshots and JIRA-style logs
+- 📄 **Test Case Templates** – Manual test cases and result tracking sheets
+
+---
+
+### 🌱 Currently Learning
+- Selenium with Java
+- Load testing using K6
+- Writing maintainable test plans
+- Agile process and QA documentation
+
+---
+
+### 📊 GitHub Stats
+![Ashraful's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+### ✍️ Fun Facts
+- I love exploring automation tools, debugging test scripts, and learning new testing frameworks.
+- Outside of tech: I enjoy biking and experimenting with creative prompts & designs.
+
+---
+
+### 🧭 Let's Connect!
+If you're hiring for an **SQA/QA position** or want to collaborate on a testing project — feel free to reach out!
 
